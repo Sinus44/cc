@@ -21,6 +21,6 @@ while true do
   elseif m=="r" then
     turtle.up()
   elseif m=="f" then
-    turtle.Down()
+    turtle.down()
   end
 end
