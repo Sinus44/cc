@@ -16,5 +16,11 @@ while true do
     turtle.turnRight()
   elseif m=="a" then
     turtle.turnLeft()
+  elseif m=="e" then
+    turtle.placeDown()
+  elseif m=="r" then
+    turtle.up()
+  elseif m=="f" then
+    turtle.Down()
   end
 end
